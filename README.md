@@ -1,4 +1,4 @@
 # hello-world
-Likkle first repository
+First repository
 
-YOLO
+Gottta start somewhere
